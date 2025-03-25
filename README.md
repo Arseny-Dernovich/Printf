@@ -35,7 +35,9 @@
 ```
 И вот что вывелось на экране
 
-![Github](https://github.com/Arseny-Dernovich/Printf/blob/main/README/example_my_printf.png)
+![Github](https://github.com/Arseny-Dernovich/Printf/blob/main/README/example_my__printf.png)
+
+
 Я решил проверить чья реализация принтфа быстрее , моя  или встроенного printf , и я провёл измерения времени их вывода. Оказалось , что при количестве измерений 1000 в среднем моя реализация printf быстрее примерно на $2 \times 10^{-6}$ 
 секунд.
 
